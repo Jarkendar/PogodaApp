@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pogoda</string>
+    <string name="logo_Pogoda">Pogoda ICM</string>
+    <string name="b_ICM_Srem">Pogoda ICM - Śrem</string>
+    <string name="b_ICM_Poznan">Pogoda ICM - Poznań</string>
+    <string name="b_End">Koniec</string>
+    <string name="image_forecast">Prognoza pogody</string>
+    <string name="stan">Stan:</string>
+    <string name="_0">0%</string>
+    <string name="text_author">by Jarosław Skrzypczak</string>
+    <string name="download_end"> Pobieranie zakończone.</string>
+    <string name="download_error"> Błąd podczas pobierania.</string>
+    <string name="download_process"> Pobieranie danych…</string>
+    <string name="weather_on">Prognoza pogody z dnia: </string>
+
+    <string name="title_activity_launcher">Pogoda ICM</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
